@@ -8,10 +8,10 @@ define([
       exaggerationFactor: 2,
     },
     extent: {
-      xmin: -13253776.1039,
-      xmax: -13245135.78,
-      ymin: 4524162.1421,
-      ymax: 4530795.2634,
+      xmax: -12306255.7,
+      xmin: -12310018.0,
+      ymin: 4937137.1,
+      ymax: 4939447.3,
       spatialReference: SpatialReference.WebMercator
     }
   }
